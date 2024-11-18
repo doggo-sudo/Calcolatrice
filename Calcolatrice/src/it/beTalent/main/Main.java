@@ -14,6 +14,8 @@ public class Main {
 		int somma = calc.somma(a, b, c);
 		
 		System.out.println(somma);
+		
+		System.out.println(calc.branch());
 
 	}
 

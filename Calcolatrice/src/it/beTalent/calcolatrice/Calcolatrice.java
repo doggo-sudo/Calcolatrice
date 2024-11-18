@@ -8,4 +8,12 @@ public class Calcolatrice {
 		return risultato;
 	}
 
+	public int branch() {
+		int r = 1024;
+		int o = 2048;
+		
+		return r - o;
+		
+	}
+	
 }
